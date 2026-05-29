@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750334182406",
+    "project_id": "iot-arquitectura",
+    "storage_bucket": "iot-arquitectura.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750334182406:android:4535f01df99643a648af87",
+        "android_client_info": {
+          "package_name": "com.example.iotambientaltec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBodoPrKXWgue5N0AxfBeA6qi2Shlyko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
